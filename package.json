@@ -1,7 +1,7 @@
 {
   "name": "estoque-srj-v14",
   "version": "1.0.0",
-  "private": true, 
+  "private": true,
   "engines": {
     "node": "22.20.0"
   },
@@ -11,20 +11,19 @@
     "start": "next start"
   },
   "dependencies": {
+    "@upstash/redis": "^1.25.3",
+    "autoprefixer": "^10.4.21",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^17.2.3",
+    "jsbarcode": "^3.11.5",
+    "jsonwebtoken": "^9.0.2",
     "next": "14.2.3",
+    "pdf-lib": "^1.17.1",
+    "postcss": "^8.5.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tailwindcss": "^3.4.10",
-    "autoprefixer": "^10.4.20",
-    "postcss": "^8.4.47",
     "swr": "^2.1.0",
-    "uuid": "^9.0.0",
-    "bcryptjs": "^2.4.3",
-    "jsonwebtoken": "^9.0.2",
-    "pdf-lib": "^1.17.1",
-    "jsbarcode": "^3.11.5",
-    "dotenv": "^17.2.3",
-    "@upstash/redis": "^1.25.3"
-
+    "tailwindcss": "^3.4.18",
+    "uuid": "^9.0.0"
   }
 }
