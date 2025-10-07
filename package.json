@@ -1,7 +1,10 @@
 {
   "name": "estoque-srj-v14",
   "version": "1.0.0",
-  "private": true,
+  "private": true, "type": "module",
+  "engines": {
+    "node": "22.20.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
