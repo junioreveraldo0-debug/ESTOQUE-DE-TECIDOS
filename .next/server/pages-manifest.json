@@ -1,0 +1,18 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/articles": "pages/api/articles.js",
+  "/api/reports/inventory": "pages/api/reports/inventory.js",
+  "/entrada": "pages/entrada.js",
+  "/label/[id]": "pages/label/[id].js",
+  "/api/rolls": "pages/api/rolls.js",
+  "/api/entrada/[id]": "pages/api/entrada/[id].js",
+  "/estoque": "pages/estoque.js",
+  "/saida": "pages/saida.js",
+  "/contagem": "pages/contagem.js",
+  "/api/movements": "pages/api/movements.js",
+  "/usuarios": "pages/usuarios.js",
+  "/api/users": "pages/api/users.js",
+  "/api/users/me": "pages/api/users/me.js"
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "623f4914-6dd6-40b5-af59-14bf0104c23b",
+    "article_id": "6fe317b4-f756-4762-94f6-b4ffa5a3771c",
+    "articleName": "teste",
+    "supplier": "a",
+    "width": "50",
+    "initial_quantity": 60,
+    "remaining_quantity": 60,
+    "lot_number": "",
+    "location": "",
+    "nuance": "",
+    "created_at": "2025-10-07T02:13:01.925Z"
+  },
+  {
+    "id": "18eb744a-9c6a-49fd-937f-449257611abf",
+    "article_id": "6fe317b4-f756-4762-94f6-b4ffa5a3771c",
+    "articleName": "teste",
+    "supplier": "a",
+    "width": "50",
+    "initial_quantity": 60,
+    "remaining_quantity": 0,
+    "lot_number": "",
+    "location": "",
+    "nuance": "",
+    "created_at": "2025-10-07T02:14:13.740Z"
+  }
+]
